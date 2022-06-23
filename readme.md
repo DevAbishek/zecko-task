@@ -4,7 +4,7 @@ Task is to read all the websites from an input Google Sheet and append one more 
 
 ## Tech Used
 
-- [NodeJs](https://nodejs.org/en/)
+- [node.js](https://nodejs.org/en/)
 - [axios](https://www.npmjs.com/package/axios)
 - [googleapis](https://www.npmjs.com/package/googleapis)
 - [wappalyzer](https://www.wappalyzer.com/)
