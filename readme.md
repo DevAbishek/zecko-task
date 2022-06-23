@@ -19,7 +19,7 @@ Task is to read all the websites from an input Google Sheet and append one more 
 6. Copy the Email in the created service account
 7. Add a JSON Key in the service account
 8. Included the downloaded JSON file in application as 'credentials.json' in the root directory 
-9. Share your spreadsheet with the copied eamail address as an editor
+9. Share your spreadsheet with the copied e-mail address as an editor
 
 ## Installation
 1. Clone this repo on your local machine.
