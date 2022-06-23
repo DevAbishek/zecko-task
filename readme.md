@@ -43,3 +43,6 @@ Task is to read all the websites from an input Google Sheet and append one more 
 ```bash
     npm run start
 ```
+
+## Note
+The program would print 'Zoey's task running' on starting and 'Hooray! Zoey's task finished!' on completion.
